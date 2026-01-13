@@ -7,3 +7,8 @@ Features:
 - Transfer files from Android to PC
 - Uses ADB (USB Debugging required)
 - Simple executable, no installation needed
+## Download Instructions
+1. Download all parts (part1, part2, part3)
+2. Keep all files in the same folder
+3. Extract only the `.001`
+4. You will get the original EXE file
